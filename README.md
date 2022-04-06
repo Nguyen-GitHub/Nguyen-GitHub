@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Nguyen-GitHub/Nguyen-GitHub/main/a57b0a09c5ccce0dbe965b590d9d7fc6.png" alt="MasterHead" data-canonical style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/Nguyen-GitHub/Nguyen-GitHub/main/a57b0a09c5ccce0dbe965b590d9d7fc6-removebg.png" alt="MasterHead" data-canonical style="max-width: 100%;">
 <h1 align="center">Hi 👋, I'm Phuc Nguyen</h1>
 <h3 align="center">I bring ideas to life by coding <3</h3>
 
